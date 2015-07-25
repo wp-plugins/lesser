@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Lesser allows you to define custom CSS for your themes and plugins using [LESS](http://lesscss.org).
+Lesser allows you to define custom CSS for your themes and plugins using LES] http://lesscss.org.
 
 == Description ==
 
@@ -31,7 +31,7 @@ Features:
 * Easily migrate your changes using popular plugins like `WP Clone`
 * Fast - Lesser compiles your LESS once and saves the result for super-fast load times
 
-[Lesser Pro](http://benallfree.com/wp/lesser) adds the following features:
+[Lesser Pro](http://wp-results.com/plugins/lesser) adds the following features:
 
 * Separate editors for both admin and public CSS changes, as well as changes common to both
 * Minification  - speed up your production site with compact files
